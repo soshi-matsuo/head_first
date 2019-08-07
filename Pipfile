@@ -10,6 +10,7 @@ flask = "*"
 mysql-connector-python = "*"
 ipython = "*"
 requests = "*"
+flask-bootstrap = "*"
 
 [requires]
 python_version = "3.7"
